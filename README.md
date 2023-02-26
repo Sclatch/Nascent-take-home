@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# First time setup
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### `npm install`
+
+Install all the node_module dependencies.
+
+### `npm install -D tailwindcss`
+### `npx tailwindcss init`
+
+To initialize the Tailwind CSS Framework
 
 ## Available Scripts
 
